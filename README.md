@@ -1,5 +1,5 @@
 # potencia-feminina-git-e-github
 
-## repositorio do curso git e github java bootcamp womakerscode
+## Repositório do curso de git e github realizadoo para o Java Bootcamp da Womakerscode
 
-### repositorio igual ao da professora, feito seguindo todos os passos durante a aula
+### repositorio igual ao da professora, feito seguindo todos os passos sugeridos durante a aula.
